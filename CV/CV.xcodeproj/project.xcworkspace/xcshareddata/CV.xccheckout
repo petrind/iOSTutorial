@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D623F96C-1E28-4F29-8AB4-6CBB15252B63</string>
+	<string>C3AE1031-1AC0-4FC8-8A18-5B17A768F3D8</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Maps Tutorial</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>10AC99B8182ACA440CF37D0A7209F58BA3DF0671</key>
 		<string>github.com:petrind/iOSTutorial.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Maps Tutorial/Maps Tutorial.xcodeproj</string>
+	<string>CV/CV.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>10AC99B8182ACA440CF37D0A7209F58BA3DF0671</key>
